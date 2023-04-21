@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela Funcionarios</title>
+</head>
+<body bgcolor="DarkGrey">
+    <h1 align="center">Finanças</h1>
+    <h2 align="center">Funcionários:</h2>
+    <table width="45%" align="center" border="2">
+        <thead>
+            <tr>
+                <th rowspan="2" colspan="1">Funcionário</th>
+                <th rowspan="2" colspan="1">Semestre</th>
+                <th rowspan="1" colspan="2">Gastos</th>
+                <th rowspan="1" colspan="2">Lucros</th>
+            </tr>
+            <tr>
+                <th>Líq</th>
+                <th>Brut</th>
+                <th>Líq</th>
+                <th>Brut</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th rowspan="2">João</th>
+                <th>1</th>
+            <td align="center">R$10,00</td>
+            <td align="center">R$15,00</td>
+            <td align="center">R$70,00</td>
+            <td align="center">R$85,00</td>
+            </tr>
+            <th>2</th>
+            <td align="center">R$20,00</td>
+            <td align="center">R$20,00</td>
+            <td align="center">R$150,00</td>
+            <td align="center">R$170,00</td>
+        <tbody>
+                <tr>
+                <th rowspan="2">Maria</th>
+                <th>1</th>
+                <td align="center">R$10,00</td>
+                <td align="center">R$15,00</td>
+                <td align="center">R$10,00</td>
+                <td align="center">R$25,00</td>
+                </tr>
+                <th>2</th>
+                <td align="center">R$15,00</td>
+                <td align="center">R$20,00</td>
+                <td align="center">R$120,00</td>
+                <td align="center">R$140,00</td>
+        <tbody>
+                <tr>
+                <th rowspan="2">Antonio</th>
+                <th>1</th>
+                <td align="center">R$10,00</td>
+                <td align="center">R$15,00</td>
+                <td align="center">R$100,00</td>
+                <td align="center">R$115,00</td>
+                </tr>
+                <th>2</th>
+                <td align="center">R$10,00</td>
+                <td align="center">R$20,00</td>
+                <td align="center">R$400,00</td>
+                <td align="center">R$420,00</td>
+        <tbody>
+                    <tr>
+                    <th rowspan="2">Paula</th>
+                    <th>1</th>
+                    <td align="center">R$15,00</td>
+                    <td align="center">R$15,00</td>
+                    <td align="center">R$200,00</td>
+                    <td align="center">R$215,00</td>
+                    </tr>
+                    <th>2</th>
+                    <td align="center">R$2,00</td>
+                    <td align="center">R$20,00</td>
+                    <td align="center">R$500,00</td>
+                    <td align="center">R$520,00</td>
+        <tbody>
+    </table>
+</body>
+</html>
